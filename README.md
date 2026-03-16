@@ -8,8 +8,6 @@
 
 > **Real-time object detection and multi-object tracking** using YOLOv8 and OpenCV — detects 80 COCO object classes from a live webcam feed and assigns persistent tracking IDs across frames.
 
-🌐 **[Explore the docs »](#)**
-🚀 **[View Demo](#)** · 🐛 **[Report Bug](#)** · 🌟 **[Request Feature](#)**
 
 ---
 
